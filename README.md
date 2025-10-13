@@ -1,4 +1,4 @@
 # gitDemo
 learning git and github. 
 <br>
-author-suvarna todkar
+author-suvarna todkar.
